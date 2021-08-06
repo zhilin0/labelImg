@@ -1,0 +1,1 @@
+/home/wanji/daryolo/labelImg/VOCdevkit/VOC2007/JPEGImages/dog.jpg 130,214,314,548,0
